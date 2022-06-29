@@ -1,0 +1,42 @@
+.form-control{
+    padding: 8px;
+    width: 350px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+
+#city{
+    margin-left: 47px;
+}
+
+#message{
+    margin-left: 17px;
+    padding: 50px;
+    width: 265px;
+}
+
+#mobile{
+    margin-left: 25px;
+}
+
+#country{
+  margin-left: 20px;
+}
+
+.submit-btn{
+  padding: 12px;
+  width: 350px;
+  margin-top: 20px;
+  margin-left: 80px;
+  background-color:teal;
+  color: white;
+  border:none;
+}
+
+.form-label{
+    color: white;
+}
+
+.submit-btn:hover{
+    background-color: crimson;
+}
